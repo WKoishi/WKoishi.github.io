@@ -128,3 +128,4 @@ $RECYCLE.BIN/
 .history
 .DS_Store
 background/
+package-lock.json
